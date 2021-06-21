@@ -14,6 +14,7 @@
 		AB8F20352680FEE60083E999 /* EcommerceGapsi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AB8F20332680FEE60083E999 /* EcommerceGapsi.xcdatamodeld */; };
 		AB8F20372680FEEB0083E999 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8F20362680FEEB0083E999 /* Assets.xcassets */; };
 		AB8F203A2680FEEB0083E999 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB8F20382680FEEB0083E999 /* LaunchScreen.storyboard */; };
+		AB8F204326810E070083E999 /* TableViewCellProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F204226810E070083E999 /* TableViewCellProducts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AB8F20362680FEEB0083E999 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB8F20392680FEEB0083E999 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB8F203B2680FEEB0083E999 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB8F204226810E070083E999 /* TableViewCellProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellProducts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AB8F202A2680FEE50083E999 /* AppDelegate.swift */,
 				AB8F202C2680FEE60083E999 /* SceneDelegate.swift */,
 				AB8F202E2680FEE60083E999 /* ViewController.swift */,
+				AB8F204226810E070083E999 /* TableViewCellProducts.swift */,
 				AB8F20302680FEE60083E999 /* Main.storyboard */,
 				AB8F20362680FEEB0083E999 /* Assets.xcassets */,
 				AB8F20382680FEEB0083E999 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				AB8F202F2680FEE60083E999 /* ViewController.swift in Sources */,
 				AB8F202B2680FEE50083E999 /* AppDelegate.swift in Sources */,
 				AB8F202D2680FEE60083E999 /* SceneDelegate.swift in Sources */,
+				AB8F204326810E070083E999 /* TableViewCellProducts.swift in Sources */,
 				AB8F20352680FEE60083E999 /* EcommerceGapsi.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
