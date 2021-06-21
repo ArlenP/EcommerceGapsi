@@ -15,6 +15,9 @@
 		AB8F20372680FEEB0083E999 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8F20362680FEEB0083E999 /* Assets.xcassets */; };
 		AB8F203A2680FEEB0083E999 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB8F20382680FEEB0083E999 /* LaunchScreen.storyboard */; };
 		AB8F204326810E070083E999 /* TableViewCellProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F204226810E070083E999 /* TableViewCellProducts.swift */; };
+		AB8F2046268110EA0083E999 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F2045268110EA0083E999 /* BaseViewController.swift */; };
+		AB8F2049268115EC0083E999 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F2048268115EC0083E999 /* Product.swift */; };
+		AB8F204C2681196C0083E999 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F204B2681196C0083E999 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		AB8F20392680FEEB0083E999 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB8F203B2680FEEB0083E999 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB8F204226810E070083E999 /* TableViewCellProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellProducts.swift; sourceTree = "<group>"; };
+		AB8F2045268110EA0083E999 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		AB8F2048268115EC0083E999 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		AB8F204B2681196C0083E999 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				AB8F202A2680FEE50083E999 /* AppDelegate.swift */,
 				AB8F202C2680FEE60083E999 /* SceneDelegate.swift */,
 				AB8F202E2680FEE60083E999 /* ViewController.swift */,
+				AB8F2048268115EC0083E999 /* Product.swift */,
+				AB8F2045268110EA0083E999 /* BaseViewController.swift */,
+				AB8F204B2681196C0083E999 /* Constants.swift */,
 				AB8F204226810E070083E999 /* TableViewCellProducts.swift */,
 				AB8F20302680FEE60083E999 /* Main.storyboard */,
 				AB8F20362680FEEB0083E999 /* Assets.xcassets */,
@@ -148,6 +157,9 @@
 				AB8F202D2680FEE60083E999 /* SceneDelegate.swift in Sources */,
 				AB8F204326810E070083E999 /* TableViewCellProducts.swift in Sources */,
 				AB8F20352680FEE60083E999 /* EcommerceGapsi.xcdatamodeld in Sources */,
+				AB8F2046268110EA0083E999 /* BaseViewController.swift in Sources */,
+				AB8F2049268115EC0083E999 /* Product.swift in Sources */,
+				AB8F204C2681196C0083E999 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
